@@ -5,9 +5,9 @@ class Script(object):
     START_TEXT = """
 <b>Hey</b><b> {} </b>
 
-<b>I am Telegram Video-Sub-Muxer Bot</b>
+<b>I am Telegram Most Powerful Video & Subtitle Merger Bot</b>
 
-<b>I can Merge any Srt or Txt Subtitles File in Video</b>
+<b>I can Merge any Srt or Txt File in File or Video</b>
 
 <b>Use Help Command to Know How to Use me</b>
 
