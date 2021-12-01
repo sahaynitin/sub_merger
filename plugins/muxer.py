@@ -7,7 +7,7 @@ from plugins.forcesub import handle_force_subscribe
 import time
 import os
 db = Db()
-
+from database.adduser import AddUser
 @Client.on_message(filters.command('softmux') & filters.private)
 async def softmux(bot, message, cb=False):
     await AddUser(bot, update)
