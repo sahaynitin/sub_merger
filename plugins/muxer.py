@@ -72,7 +72,7 @@ await AddUser(bot, update)
 
 @Client.on_message(filters.command('hardmux') & filters.private)
 async def hardmux(bot, message, cb=False):
-await AddUser(bot, update):
+await AddUser(bot, update)
     if Config.UPDATES_CHANNEL:
       fsub = await handle_force_subscribe(bot, message)
       if fsub == 400:
