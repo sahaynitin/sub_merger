@@ -7,7 +7,7 @@ class Script(object):
     START_TEXT = """
 Hey {} 
 
-I am Telegram Most Powerful Subtile Muxer Bot
+I am Telegram Most Powerful Subtitle Muxer Bot
 
 I can Mux Any Srt or Txt File in File or Video
 
@@ -16,17 +16,17 @@ Use Help Command to Know How to Use me
 Made With 💕 By @Tellybots_4u
 """
     HELP_TEXT = """
-Link to Media or File
-➠ Send a link for upload to telegram file or media.
+Recommended
+➠ Use Hardmux If You Have More Time
 
-Set Thumbnail
-➠ Send a photo to make it as permanent thumbnail.
+Recommended
+➠ Use Softmux To add Subtitle Fastly in It
 
-Deleting Thumbnail
-➠ Send /delthumb to delete thumbnail.
+Softmux
+➠ Send /softmux to add Subtitle Softly in it
 
-Show Thumbnail
-➠ Send /showthumb to view custom thumbnail.
+HardMux
+➠ Send /hardmux to add Subtitle hardly in it 
 
 Made With 💕 By @Tellybots_4u
 """
