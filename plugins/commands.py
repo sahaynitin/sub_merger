@@ -6,6 +6,7 @@ else:
 from script import Script
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+from database.adduser import AddUser
 
 @Client.on_message(filters.command(["start"]) & filters.private)
 async def start(bot, update):
