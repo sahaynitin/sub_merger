@@ -1,9 +1,5 @@
 
-class Translation (object):
-
-    
-
-    
+class Translation (object):   
     
     DOWNLOAD_SUCCESS = """File downloaded successfully!
 
