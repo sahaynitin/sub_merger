@@ -31,7 +31,7 @@ HardMux
 Made With 💕 By @Tellybots_4u
 """
     ABOUT_TEXT = """
- **🤖 Bot :** URL Uploader</b>\n
+ **🤖 Bot :** Sub-Muxer\n
  **👲 Developer :** [Tellybots_4u](https://telegram.me/tellybots_4u)\n
  **👥 Channel :** [Tellybots_4u](https://telegram.me/tellybots_4u)\n
  **❄️ Credits :** Everyone in this journey\n
